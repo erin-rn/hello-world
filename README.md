@@ -1,3 +1,3 @@
 # hello-world
-## bio 668 practice
->this is a branch 
+**this is a test for BIOL 668**
+> My favorite animal is a manatee. 
